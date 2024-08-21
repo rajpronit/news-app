@@ -10,3 +10,16 @@
 
 <img src="https://github.com/rajpronit/news-app/blob/master/screenshots/screenshot1.png" width="390"/> <img src="https://github.com/rajpronit/news-app/blob/master/screenshots/screenshot2.png" width="390"/>
 
+## How do I run it? 🤔
+ 1. First clone the repository then cd into the folder
+ 2. Install the required libraries
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+4. Run the main.py file
+
+   ```bash
+   python main.py
+   ```
+
