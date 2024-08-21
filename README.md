@@ -8,5 +8,5 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<img src="https://github.com/rajpronit/news-app/blob/master/screenshots/screenshot1.png" width="425"/> <img src="https://github.com/rajpronit/news-app/blob/master/screenshots/screenshot2.png" width="425"/>
+<img src="https://github.com/rajpronit/news-app/blob/master/screenshots/screenshot1.png" width="390"/> <img src="https://github.com/rajpronit/news-app/blob/master/screenshots/screenshot2.png" width="390"/>
 
