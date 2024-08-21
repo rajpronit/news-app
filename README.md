@@ -13,6 +13,7 @@
 ## How do I run it? 🤔
  1. First clone the repository then cd into the folder
  2. Install the required libraries
+ 3. Get your api key from [here](https://newsapi.org/) and add it to .env file
 
     ```bash
     pip install -r requirements.txt
